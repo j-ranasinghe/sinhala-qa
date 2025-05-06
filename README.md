@@ -1,4 +1,4 @@
-## Sinhala QA/MRC
+## Sinhala QA/MRC 
 
 This repository contains:
 
@@ -24,8 +24,7 @@ Below are key companion repositories used in this workflow:
 
 - Contains scripts for **scraping Sinhala news articles**.
 - Data gathered was used to **build a seed context dataset** to support Sinhala QA development and fine-tuning of models
-- 📦 The full dataset used for training is publicly available on Hugging Face:  
-  👉 [Sinhala-News-Wiki-text-corpus](https://huggingface.co/datasets/janani-rane/Sinhala-News-Wiki-text-corpus)
+- 📦 The full dataset used for training is publicly available on Hugging Face: [Sinhala-News-Wiki-text-corpus](https://huggingface.co/datasets/janani-rane/Sinhala-News-Wiki-text-corpus)
 
 
 
