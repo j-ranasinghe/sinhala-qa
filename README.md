@@ -4,6 +4,8 @@ This repository contains:
 
 - **Scripts for training and evaluating Sinhala fine-tuned models** on QA tasks.
 - A `data/` folder with the **Sinhala QA datasets**, including training, validation, and test sets used for model development and benchmarking.
+- 📦 The translated dataset used for training is publicly available on Hugging Face: [SiQuAD](https://huggingface.co/datasets/janani-rane/SiQuAD)
+
 
 ## Related Repositories
 
