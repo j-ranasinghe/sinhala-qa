@@ -2,8 +2,8 @@
 
 This repository contains:
 
-- 🛠️ **Scripts for training and evaluating Sinhala fine-tuned models** on QA tasks.
-- 📁 A `data/` folder with the **Sinhala QA datasets**, including training, validation, and test sets used for model development and benchmarking.
+- **Scripts for training and evaluating Sinhala fine-tuned models** on QA tasks.
+- A `data/` folder with the **Sinhala QA datasets**, including training, validation, and test sets used for model development and benchmarking.
 
 ## Related Repositories
 
